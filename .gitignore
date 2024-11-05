@@ -1,0 +1,3 @@
+/target
+/circuit/main_js
+/circuit/*.r1cs
