@@ -588,6 +588,7 @@ dependencies = [
  "ark-snark",
  "hex",
  "rand",
+ "tokio",
 ]
 
 [[package]]
